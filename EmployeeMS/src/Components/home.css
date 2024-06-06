@@ -1,0 +1,14 @@
+.card {
+    background-color: #28a745;
+    color: white;
+    border: none;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card h4, .card h5 {
+    margin: 0;
+    padding: 5px 0;
+  }

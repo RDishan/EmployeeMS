@@ -1,0 +1,29 @@
+.dropdown-container {
+    margin-bottom: 20px; /* Add spacing between dropdown and table */
+}
+
+.dropdown {
+    border: 2px solid forestgreen; /* Highlight dropdown border with forest green */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px; /* Add margin to the top of the table */
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+th {
+    background-color: forestgreen; /* Set the background color of table header */
+}
+body {
+    background-color: #c8e6c9; /* Set the background color of the body */
+}
